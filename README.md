@@ -3,7 +3,7 @@
 Download the dataset(DS-1) using this link:  
 https://drive.google.com/file/d/14lKOu5i-d3SrDuhe7iRzS0RSEpRTMHjh/view?usp=sharing
   
-
+Paper link: https://arxiv.org/abs/2110.05661
 
 The **data folder** contains actual bots in 2016 and 2018 datasets of DS-1 and Preprocessed Dataset 2.  
   
