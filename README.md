@@ -1,4 +1,4 @@
-# CSE573-Project
+# BotNet Detection on Social Media
 
 Download the dataset(DS-1) using this link:  
 https://drive.google.com/file/d/14lKOu5i-d3SrDuhe7iRzS0RSEpRTMHjh/view?usp=sharing
